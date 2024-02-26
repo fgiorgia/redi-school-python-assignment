@@ -1,0 +1,252 @@
+[
+    {
+        "question": "Which symbol is used to create single-line comments?",
+        "answer_options": [
+            "//",
+            "/* */",
+            "#",
+            "--"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Which of the following is a basic data type?",
+        "answer_options": [
+            "Lists",
+            "Strings",
+            "Functions",
+            "Modules"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Which operator is used for exponentiation (raising a number to a power)?",
+        "answer_options": [
+            "**",
+            "++",
+            "//",
+            "<<"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Which Python operator is used to check if a value is present in a list, tuple, or string and returns a Boolean value?",
+        "answer_options": [
+            "in",
+            "&",
+            "~",
+            "?"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Which logical operator returns True if at least one of the conditions is True?",
+        "answer_options": [
+            "and",
+            "not",
+            "or",
+            "xor"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Which of the following is a valid variable name?",
+        "answer_options": [
+            "2var_name",
+            "my_variable",
+            "my variable",
+            "my-variable"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "In Python, which keyword is used to define a conditional statement that executes a block of code if a specified condition is true?",
+        "answer_options": [
+            "when",
+            "then",
+            "if",
+            "case"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "In Python, which keyword is used to add additional conditions to an if statement when you want to check multiple conditions one by one?",
+        "answer_options": [
+            "else",
+            "unless",
+            "when",
+            "elif"
+        ],
+        "correct_answer": 3
+    },
+    {
+        "question": "What is the purpose of defining a function?",
+        "answer_options": [
+            "To declare a variable",
+            "To create an object",
+            "To perform a specific task or group of tasks",
+            "To comment on the code"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Which of the following is an example of a built-in function in Python?",
+        "answer_options": [
+            "my_function()",
+            "import_module()",
+            "print()",
+            "add_numbers()"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "What is the key characteristic of a list data structure?",
+        "answer_options": [
+            "Lists are immutable",
+            "Lists can contain elements of different data types",
+            "Lists are limited to a fixed number of elements",
+            "Lists are used for mathematical calculations"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Which Python list function is used to add an element to the end of a list?",
+        "answer_options": [
+            "remove()",
+            "pop()",
+            "append()",
+            "insert()"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "In Python, which type of loop is specifically designed for iterating through the elements of a sequence, such as a list, tuple, or string, for a known number of iterations?",
+        "answer_options": [
+            "for",
+            "while",
+            "if",
+            "switch"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Which of the following statements about tuples is correct?",
+        "answer_options": [
+            "Tuples are mutable and can be modified after creation",
+            "Tuples are enclosed in square brackets, like [1, 2, 3]",
+            "Tuples are indexed starting from 1, not 0",
+            "Tuples are immutable and cannot be changed after creation"
+        ],
+        "correct_answer": 3
+    },
+    {
+        "question": "What is the primary characteristic of a dictionary data structure?",
+        "answer_options": [
+            "Dictionaries are ordered collections",
+            "Dictionaries store data as a sequence of elements",
+            "Dictionaries are mutable and can be modified after creation",
+            "Dictionaries use numeric indexes to access elements"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "What is the primary characteristic of dictionaries?",
+        "answer_options": [
+            "Dictionaries are ordered collections",
+            "Dictionaries store data in a sequence",
+            "Dictionaries use numeric indices",
+            "Dictionaries use key-value pairs for data storage"
+        ],
+        "correct_answer": 3
+    },
+    {
+        "question": "What is the key difference between a floating-point (float) and an integer (int) data type?",
+        "answer_options": [
+            "Floats can store whole numbers, while integers can store decimal numbers",
+            "Floats can represent real numbers with decimal points, while integers store only whole numbers",
+            "Integers are used for mathematical operations, while floats are used for text processing",
+            "Floats are used for complex calculations, while integers are for simple arithmetic"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "In Python, what is the purpose of a module?",
+        "answer_options": [
+            "To create graphical user interfaces (GUIs)",
+            "To perform arithmetic calculations",
+            "To group related code and variables for reuse",
+            "To write and run test cases"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Which Python construct is used to safely open, read, and close a file in a controlled block of code, ensuring proper resource management?",
+        "answer_options": [
+            "import",
+            "open()",
+            "read()",
+            "with"
+        ],
+        "correct_answer": 3
+    },
+    {
+        "question": "Which of the following Python data types is considered mutable, allowing you to change its content after creation?",
+        "answer_options": [
+            "Integer",
+            "String",
+            "List",
+            "Tuple"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "What is the primary purpose of using lambdas?",
+        "answer_options": [
+            "Defining complex data structures",
+            "Creating anonymous functions for small, simple operations",
+            "Declaring classes and objects",
+            "Working with databases"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "What is the primary purpose of slicing?",
+        "answer_options": [
+            "Sorting elements in a list",
+            "Selecting specific elements from a sequence, such as a list or string",
+            "Defining custom functions",
+            "Creating anonymous functions"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Which Python methods are commonly used to retrieve a value based on its key, add a new key-value pair, or remove a key-value pair from a dictionary?",
+        "answer_options": [
+            "find(), push(), delete()",
+            "get(), append(), pop()",
+            "access(), modify(), erase()",
+            "get(), update(), pop()"
+        ],
+        "correct_answer": 3
+    },
+    {
+        "question": "When you use the del statement with a specific key in a dictionary, what is the primary purpose?",
+        "answer_options": [
+            "To delete the entire dictionary, and it removes all key-value pairs",
+            "To remove a specific key-value pair from the dictionary, and it retains other pairs",
+            "To change the key's value, and it retains the previous value",
+            "To create a new key-value pair, and it keeps all existing pairs"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Which data analytics school, often described as a place of magic and wizardry, is considered one of the most famous 'best schools ever' in Sweden?",
+        "answer_options": [
+            "ReDI school Malmö",
+            "Hogwarts School of Witchcraft and Wizardry",
+            "Springfield Elementary School",
+            "Karolinska Institutet"
+        ],
+        "correct_answer": 0
+    }
+]
