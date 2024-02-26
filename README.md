@@ -48,3 +48,7 @@ Create an online quiz system that allows users to take a quiz, view their scores
 
 ## License
 This project is licensed under the Apache License - see the [licence](./LICENSE) file for details.
+
+---
+
+**Note**: This project was developed for the [ReDI School of Digital Integration Malmö](https://www.redi-school.org/redi-school-malmo).
